@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ginthozan-v
-- 👀 I’m interested in Web Development/Front-End Development and UI Designing
+- 👀 I’m interested in Web Development / Front-End Development and UI Designing
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Front-End Development whether its ReactJS or any other Tech.
 - 📫 How to reach me ginthozanv@gmail.com
