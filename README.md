@@ -2,10 +2,10 @@
 
 ## I'm Ginthozan!.
 
-- 💼 Frontend Software Engineer
+- 💼 Frontend Developer
 - ❤️ Love JavaScript, React.
-- 🔭 I’m currently working on a few web apps
-- 🌱 I’m learning TypeScript, React Native and Frontend testing tools.
+- 🔭 I’m currently working on a few web apps / Ecommerce Shopify Projects
+- 🌱 I’m learning Shopify.
 - 👯 I’m open to collaborate on fun projects
 
 <br />
