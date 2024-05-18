@@ -4,9 +4,9 @@
 
 - 💼 Frontend Developer
 - ❤️ Love JavaScript, React.
-- 🔭 I’m currently working on a few web apps / Ecommerce Shopify Projects
-- 🌱 I’m learning Shopify.
-- 👯 I’m open to collaborate on fun projects
+- 🔭 I’m currently working on a few web apps / E-commerce Shopify Projects
+- 🌱 I’m learning GSAP, Three.js, Shopify, Shopify app.
+- 👯 I’m open to collaborating on fun projects
 
 <br />
 <br />
