@@ -3,7 +3,7 @@
 ## I'm Ginthozan!.
 
 - 💼 Frontend Developer
-- ❤️ Love JavaScript, React.
+- ❤️ Love JavaScript, React, Frontend Development.
 - 🔭 I’m currently working on a few web apps with Next.js and E-commerce Shopify Projects
 - 🌱 I’m learning GSAP, Three.js, Shopify, Shopify app.
 - 👯 I’m open to collaborating on fun projects
