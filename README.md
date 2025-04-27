@@ -12,10 +12,8 @@
 <br />
 
 ## 📭 Connect with me:
-<!--
-[<img align="left" alt="rodrigobarreto.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
---->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="![image](https://github.com/user-attachments/assets/620676a2-51ba-4b77-8acd-f8b597254e1f)" />][linkedin]
 
 <br />
 <br />
