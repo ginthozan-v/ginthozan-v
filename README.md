@@ -12,21 +12,23 @@ Frontend Developer passionate about **JavaScript**, **React**, and creating mode
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg)](https://linkedin.com/in/ginthozan-v)
+[<img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />](https://linkedin.com/in/ginthozan-v)
+
+<br /><br />
 
 ---
 
 ## 🛠 Technologies & Tools
 
-<img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
-<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
-<img align="left" alt="Next.js" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" />
-<img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" />
-<img align="left" alt="HTML5" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" />
-<img align="left" alt="CSS3" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" />
-<img align="left" alt="Git" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" />
-<img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
-<img align="left" alt="VS Code" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" style="color:currentColor" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" style="color:currentColor" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" style="color:currentColor" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" style="color:currentColor" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" style="color:currentColor" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" style="color:currentColor" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" style="color:currentColor" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" style="color:currentColor" />
+<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" style="color:currentColor" />
 
 <br /><br /><br />
 
